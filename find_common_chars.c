@@ -1,3 +1,10 @@
+/* Given two strings, find the common characters between the two
+ * strings. For ex, "Hello world" and "woowrd" have "word" as common
+ * characters.
+ *
+ * The solution below has O(n) complexity and is not case sensitive
+ */
+
 #include<stdio.h>
 
 int main() {
